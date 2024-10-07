@@ -4,12 +4,52 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>Exercise 04 - Form</title>
+    <title>HTML Form Example</title>
   </head>
   <body>
     <main>
       <form action="/submit">
-        <!-- Add your code here -->
+        <h1>Form</h1>
+        <div>
+          <label for="name">Name:</label>
+          <input type="text" id="name" name="name" />
+        </div>
+        <div>
+          <label for="email">Email:</label>
+          <input type="email" id="email" name="email" />
+        </div>
+        <br />
+        <div>
+          <form>
+            <fieldset>
+              <legend>Favorite Character:</legend>
+              <label>
+                <input type="radio" name="character" value="Spingebob"> Spongebob
+              </label><br>
+              <label>
+                <input type="radio" name="character" value="Sandy"> Sandy
+              </label><br>
+              <label>
+                <input type="radio" name="character" value="Patrick"> Patrick
+              </label>
+              </fieldset>
+              </div>
+              <br />
+              <fieldset>
+                <legend>Are you a fan of the show?</legend>
+                <label>
+                  <input type="checkbox" name="character" value="watched-all"> Yes, I have wathed all episodes!
+                </label><br>
+                <label>
+                  <input type="checkbox" name="character" value="memes"> Yes, it's got the best memes.
+                </label>
+              </fieldset>
+          </form>
+        <br />
+        <div>
+          <input type="submit" value="Submit" />
+          <input type="reset" value="Reset" />
+        </div>
       </form>
     </main>
   </body>
