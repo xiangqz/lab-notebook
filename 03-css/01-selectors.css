@@ -16,9 +16,9 @@
 
 /* Use descendant, child, and sibling selectors for the second part */
 
-/* section li {
-  color: var(--green);
-} */
+section li {
+  color: rgb(48, 178, 48);
+}
 
 li[class="dog"] {
   color: #ff00ff;
@@ -28,13 +28,13 @@ li[class="hedgehog"] {
   color: #ff00ff;
 }
 
-li[id="cat"] {
+/* li[id="cat"] {
   color: rgb(48, 178, 48);
 }
 
 li[class="parrot"] {
   color: rgb(48, 178, 48);
-}
+} */
 
 li[class="donkey"] {
   color: #008080;
@@ -60,6 +60,6 @@ li[class="coffee"] {
   color: #ff00ff;
 }
 
-li {
+div ~ li {
   color: rgb(48, 178, 48);
 }
