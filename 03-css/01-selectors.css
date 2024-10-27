@@ -19,3 +19,11 @@ li[class] {
 section li {
   color: var(--green);
 }
+
+li[class="dog"] {
+  color: #ff00ff;
+}
+
+li[class="cat"] {
+  color: rgb(48, 178, 48);
+}
