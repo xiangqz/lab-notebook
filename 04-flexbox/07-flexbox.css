@@ -1,6 +1,19 @@
 .flex-container {
   background-color: rgb(190, 190, 231);
 }
+.flex-item {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  background-color: purple;
+  padding: 10px;
+  margin: 1px;
+  font-size: 50px;
+  text-align: center;
+  color: white;
+  flex-wrap: wrap;
+  justify-content: center;
+}
 
 /* Flex Container 1 */
 
