@@ -11,11 +11,13 @@
   font-size: 50px;
   text-align: center;
   color: white;
-  flex-wrap: wrap;
   justify-content: center;
 }
 
 /* Flex Container 1 */
+.flex-container-1 {
+  flex-flow: row wrap;
+}
 
 /* Flex Container 2 */
 
