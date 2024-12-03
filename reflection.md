@@ -19,6 +19,11 @@ This was a simple exercise and I was able to complete it fast. The exercise prov
 03-css
 I was able to complete the exercises and I think these exercises are really great for helping me go over the concepts we covered in class and they are very helpful to completing the homework. I think the selectors and pseduo exercises are useful as they helped me understand the topics better.
 
+04-flexbox
+I was not able to completely finish this on my own so I refered to the solutions when I was dealing with the flex format. But I think the exercise was really helpful for me to get practice on how to use flexbox in different way.
+
+05-grid
+
 ### Accessibility
 
 Enter your reflections on this section here.
