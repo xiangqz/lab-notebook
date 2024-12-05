@@ -25,6 +25,17 @@ I was not able to completely finish this on my own so I refered to the solutions
 05-grid
 The grid-area made me struggle a little as I tried to figured out the order of min-size needed to be from small to big, instead of from big to small just as the markdown file shown.
 
+06-bootstrap
+It's very instersting to learn and practice this topics and they are really useful.
+
+07-js
+This exercise has a lot of features and funcitons that are really helpful for finishing the hw. And it's my first time to see the ? and : as if and else operator. Also, the destructuring and fetch are the two sessions I spent some time to digest.
+
+08-jquery
+This exercise is very helpful for better understanding jquery, and I think jquery's syntax is more neat.
+
 ### Accessibility
 
 Enter your reflections on this section here.
+
+Overall, the accessibility is important to make your site/content avaible to more people, it does require programmer more time to better organize and structure the code, but it won't take too long if we start paying attention to it at the beginning.
