@@ -23,6 +23,7 @@ I was able to complete the exercises and I think these exercises are really grea
 I was not able to completely finish this on my own so I refered to the solutions when I was dealing with the flex format. But I think the exercise was really helpful for me to get practice on how to use flexbox in different way.
 
 05-grid
+The grid-area made me struggle a little as I tried to figured out the order of min-size needed to be from small to big, instead of from big to small just as the markdown file shown.
 
 ### Accessibility
 
